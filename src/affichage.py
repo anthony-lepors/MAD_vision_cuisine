@@ -1,5 +1,6 @@
 import numpy as np
 import cv2 as cv
+#hello 
 
 #caractéristiques de la police d'écriture
 font = cv.FONT_HERSHEY_SIMPLEX
