@@ -1,0 +1,117 @@
+{
+    "Library": [
+        {
+            "nom": "",
+            "nature": "set",
+            "dimensions": {
+                "Dimensions": 65,
+                "Unit\u00e9": "mm"
+            }
+        },
+        {
+            "nom": "Plaque",
+            "nature": "Plaque",
+            "dimensions": {
+                "QR/droite/gauche": 80.0,
+                "QR/haut/bas": 120.0,
+                "Longeur": 200,
+                "Largeur": 200,
+                "Hauteur": 5,
+                "Unit\u00e9": "mm"
+            },
+            "cercles": [
+                {
+                    "PosX": 50,
+                    "PosY": 90.0,
+                    "Rayon": 30.0,
+                    "Unit\u00e9": "mm"
+                },
+                {
+                    "PosX": -40,
+                    "PosY": 90,
+                    "Rayon": 50.0,
+                    "Unit\u00e9": "mm"
+                },
+                {
+                    "PosX": 0.0,
+                    "PosY": -60.0,
+                    "Rayon": 70.0,
+                    "Unit\u00e9": "mm"
+                }
+            ]
+        },
+        {
+            "nom": "poele 1 personne",
+            "nature": "po\u00eale",
+            "dimensions": {
+                "QR/Centre": 200,
+                "QR/Poign\u00e9e": 75,
+                "LargeurPoign\u00e9e": 45,
+                "rotationPoign\u00e9e": 5,
+                "RayonCentre": 79,
+                "RayonBords": 100,
+                "Hauteur": 30,
+                "Unit\u00e9": "mm"
+            }
+        },
+        {
+            "nom": "Wok 1 personne",
+            "nature": "po\u00eale",
+            "dimensions": {
+                "QR/Centre": 150,
+                "QR/Poign\u00e9e": 200,
+                "LargeurPoign\u00e9e": 35,
+                "rotationPoign\u00e9e": 15,
+                "RayonCentre": 89,
+                "RayonBords": 120,
+                "Hauteur": 50,
+                "Unit\u00e9": "mm"
+            }
+        },
+        {
+            "nom": "Louche",
+            "nature": "Louche",
+            "dimensions": {
+                "QR/Centre": 55,
+                "QR/Poign\u00e9e": 100,
+                "LargeurPoign\u00e9e": 10,
+                "rotationPoign\u00e9e": 0,
+                "RayonCentre1": 20,
+                "RayonBords1": 30,
+                "RayonCentre2": 35,
+                "RayonBords2": 45,
+                "Hauteur": 15,
+                "Unit\u00e9": "mm"
+            }
+        },
+        {
+            "nom": "Spatule",
+            "nature": "Spatule",
+            "dimensions": {
+                "QR/Centre": 55,
+                "QR/Poign\u00e9e": 100,
+                "LargeurPoign\u00e9e": 10,
+                "rotationPoign\u00e9e": 0,
+                "RayonBords1": 30,
+                "RayonBords2": 45,
+                "Hauteur": 15,
+                "Unit\u00e9": "mm"
+            }
+        },
+        {
+            "nom": "Curseur",
+            "nature": "Curseur",
+            "dimensions": {
+                "QR/droite/gauche": 0.0,
+                "QR/haut/bas": 0.0,
+                "LongeurPoign\u00e9e": 15,
+                "LargeurPoign\u00e9e": 10,
+                "RayonBords1": 15,
+                "RayonBords2": 15,
+                "Hauteur": 15,
+                "HauteurCurseur": 5,
+                "Unit\u00e9": "mm"
+            }
+        }
+    ]
+}
